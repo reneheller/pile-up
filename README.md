@@ -1,7 +1,7 @@
 # pile-up
 A gnuplot script for Monte Carlo simulations of disk and stellar tidal torques acting on hot Jupiters
 
-To run this script through a terminal, first open gnuplot (e.g. bytyping "gnuplot" into your terminal and then pressing the RETURN key). Within the gnuplot environment, run the script via
+To run this script through a terminal, first change the directory of your terminal environment to the location of pile-up.gp on your computer or within your network. Open gnuplot (e.g. by typing "gnuplot" into your terminal and then pressing the RETURN key). Within the gnuplot environment, run the script via
 
 gnuplot>i=1; call "pile-up.gp" 1000 pdf
 
